@@ -10,7 +10,7 @@ namespace SalesWebMvc.Migrations
 {
     [DbContext(typeof(SalesWebMvcContext))]
     [Migration("20211104222556_correcao-sales-saleRecord")]
-    partial class correcaosalessaleRecord
+    partial class CorrecaosalessaleRecord
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
